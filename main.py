@@ -25,10 +25,10 @@ def usernames():
     u3 = k + k + k + n + c
     u4 = n + n + _ + n + c
     u5 = n + c + n + _ + n
-    u6 = n + _ + n + c + n
-    u7 = n + _ + n + k + k
-    u8 = n + n + _ + k + k
-    u9 = n + n + k + _ + k
+    u6 = n + c + n + c + n + n + n + n
+    u7 = n + c + n + c + c + c + c + c
+    u8 = n + n + n + k + k + k + k + n 
+    u9 = n + n + k + k + k + k + k + k
     u10 = n + k + n + n + n + k + n
     u11 = k + n + n + n + n + n + k
     u12 = k + n + k + n + k + n + k
